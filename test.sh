@@ -1,3 +1,3 @@
 #!/bin/bash
-clang -o db db.c
+clang -o bin/db db.c
 bundle exec rspec rspec_test.rb

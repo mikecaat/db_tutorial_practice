@@ -1,2 +1,2 @@
 #!/bin/bash
-clang -o db db.c && ./db
+clang -o bin/db db.c && ./bin/db
